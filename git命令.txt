@@ -13,5 +13,10 @@
 记录每一条命令：git reflog
 删除最后一行：git checkout -- 文件名
 提交到暂存区撤回：git reset HEAD 文件名
+删除文件：git rm 文件名 ==> git commit -m "说明"
+
+创建分支并切换到该分支：git checkout -b 分支名
+
+
 
  
