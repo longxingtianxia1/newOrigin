@@ -14,9 +14,9 @@ $$$
 
 haha
 
-<<<<<<< HEAD
-
-=======
 new haha
->>>>>>> dev
+
+wode
+
+
 
