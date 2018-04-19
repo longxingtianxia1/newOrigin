@@ -1,0 +1,14 @@
+初始化：git init
+新建文件：mkdir 
+查看目录：pwd
+提交到暂存区：git add 文件名   //可以提交多个问价，中间只用空格隔一下就好
+提交到git仓库：git commit -m "说明"
+查看状态：git status
+查看修改的文件: git diff
+查看文件内容：cat 文件名
+查看不同的版本：git log
+查看不同的版本(精简版)：git log --pretty=oneline
+版本回退：git reset --hard HEAD^(一个^表示回退一个版本，多个表示回退多个)
+指定版本回退：git reset --hard "commit id"
+记录每一条命令：git reflog
+ 
